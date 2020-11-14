@@ -1,0 +1,5 @@
+0. ไปดาวน์โหลด python 3 ที่ https://www.python.org/downloads/
+1. เข้า connect 4 โดย Sublime text 3
+2. เข้า Install numpy ที่  cmder โดยใช้คำสั่ง pip install numpy == 1.19.3
+3. เข้าไป Install pygame โดยใช้คำสั่ง pip install pygame
+4. เข้าไปที่  tool เเล้วกด build จะได้ตัวเกมออกมา
